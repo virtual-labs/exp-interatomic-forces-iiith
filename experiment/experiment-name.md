@@ -1,1 +1,1 @@
-## Experiment name
+## Molecular separation using inter-atomic forces: Column chromatography
