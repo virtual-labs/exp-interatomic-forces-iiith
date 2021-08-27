@@ -1,0 +1,38 @@
+[
+{"question":"1. Column Chromatography is based on distribution principle. ",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"},
+
+{"question":"2. Molecules strong bound with the stationary phase eulates first.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"b"},
+
+{"question":"3. The gas or liquid exiting the column ,contains mobile phases and solutes. ",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"}, 
+
+{"question":"4. Chromatography experiment is carried at constant temperature. ",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"},
+
+
+{"question":"5. Mixtures is absorbed on to the stationary phase",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"b"}
+
+]

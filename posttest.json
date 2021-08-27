@@ -1,0 +1,16 @@
+[
+{"question":"1. Chromatography experiment is carried at constant temperature. ",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"},
+
+
+{"question":"2. Mixtures is absorbed on to the stationary phase",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"b"}
+]
