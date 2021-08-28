@@ -1,1 +1,1 @@
-To demonstrate how the knowledge of molecular forces is used in purification of mixtures of compounds.
+- To demonstrate how the knowledge of molecular forces is used in purification of mixtures of compounds.
